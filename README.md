@@ -14,7 +14,7 @@ as a 4x10GBs packet generator.
 
 ## QUICK INSTALL
 
-To clone the git repository : `git clone --recursive https://github.com/Gu1nness/oflops-turbo.git`
+To clone the git repository : `git clone --recursive https://github.com/oflops-nf/oflops-sume.git`
 
 To build the documentation, you will need `doxygen` and `doxygen-latex` for the pdf version.
 
@@ -135,7 +135,6 @@ In a few steps you can :
 2) Use [the documentation](./doc/) for reference (did you `make docs`?)
 3) Contribute them back to Oflops!
 
-## Contact
+## History
 
-Currently Oflops does not have its own mailing list.  Please send
-questions or comments to the authors directly or openflow-discuss@openflowswitch.org
+Oflops-SUME is based on Oflops-turbo which can be found [here](https://github.com/OFLOPS-Turbo/oflops-turbo)
