@@ -1,0 +1,3 @@
+[submodule "netfpga-packet-generator-c-library"]
+	path = src/netfpga-packet-generator-c-library
+	url = git://github.com/OFLOPS-Turbo/nf-pktgencap-lib.git
