@@ -1,0 +1,48 @@
+# Artefacts created by the compilation.
+*.m4
+*Makefile.in
+compile
+autom4te.cache/
+ar-lib
+config.*
+configure
+depcomp
+missing
+ltmain.sh
+install-sh
+
+Makefile
+
+*.swp
+core
+
+.deps
+.libs
+
+libtool
+stamp-h1
+
+doc/doxygen.conf
+doc/html
+doc/latex
+ovs/
+
+
+# Binaries
+./src/cbench/cbench
+oflops
+
+# Log files.
+
+*.log
+
+# PCAP files
+
+*.cap
+*.pcap
+
+*.lo
+*.la
+*.a
+*.so
+*.o
